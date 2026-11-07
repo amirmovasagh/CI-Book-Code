@@ -10,22 +10,12 @@ tags:
   - evolutionary computing
 authors:
   - name: Amir Movasagh
-    orcid: 0000-0000-0000-0000
+    orcid: 0009-0006-5049-2762
     affiliation: 1
-  - name: CO-AUTHOR 2 FULL NAME
-    orcid: 0000-0000-0000-0000
-    affiliation: 2
-  - name: CO-AUTHOR 3 FULL NAME
-    orcid: 0000-0000-0000-0000
-    affiliation: 3
 affiliations:
-  - name: DEPARTMENT, UNIVERSITY, CITY, COUNTRY (author 1)
+  - name: Islamic Azad University, Central Tehran Branch, Tehran, Iran
     index: 1
-  - name: DEPARTMENT, UNIVERSITY, CITY, COUNTRY (author 2)
-    index: 2
-  - name: DEPARTMENT, UNIVERSITY, CITY, COUNTRY (author 3)
-    index: 3
-date: 4 November 2026
+date: 7 November 2026
 bibliography: paper.bib
 ---
 
@@ -73,14 +63,14 @@ Each example is short enough to run live in a lecture. A suggested classroom pat
 
 # Experience of use
 
-The material grew out of the course *Computational and Biological Intelligence* taught by the first author to biomedical engineering students at [UNIVERSITY] since [YEAR], with about [N] students per year. [AUTHORS: describe briefly how the examples were used in lectures, assignments or projects, and any student feedback or results, e.g. course evaluations.] All 80 scripts and nine notebooks were re-executed with Python 3.13 and current versions of the libraries before release.
+The material grew out of the course *Computational and Biological Intelligence*, which the author has taught to biomedical engineering students at Islamic Azad University, Central Tehran Branch, since 2021. In the course, the examples are run and modified during lectures and serve as the starting point for assignments. All 80 scripts and nine notebooks were re-executed with Python 3.13 and current versions of the libraries before release.
 
 # Story of the project
 
-The examples began as lecture demonstrations written to replace slides with code that students could change and rerun. Over several years of teaching they were rewritten so that each runs on its own and prints checkable results. The medical images that the course had borrowed were replaced with simulations or openly licensed images. The collection was then organised into units that follow the chapters of the first author's textbook [@movasagh_book]. [AUTHORS: add one sentence on the expertise and role of each co-author.]
+The examples began as lecture demonstrations written to replace slides with code that students could change and rerun. Over several years of teaching they were rewritten so that each runs on its own and prints checkable results. The medical images that the course had borrowed were replaced with simulations or openly licensed images. The collection was then organised into units that follow the chapters of the author's textbook [@movasagh_book].
 
 # Acknowledgements
 
-We thank the students of the course for their feedback. [AUTHORS: add funding or other acknowledgements, or remove this sentence.]
+The author thanks the students of the course for their feedback.
 
 # References
