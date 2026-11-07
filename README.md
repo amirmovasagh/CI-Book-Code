@@ -1,5 +1,7 @@
 # Computational and Biological Intelligence — runnable Python learning modules
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24040132.svg)](https://doi.org/10.5281/zenodo.24040132)
+
 Nine notebooks and 80 standalone Python scripts that teach the core methods of computational intelligence through medical and biomedical examples: machine learning, neural networks, convolutional networks for medical images, classic algorithms, fuzzy systems, evolutionary computing, and hybrid ANFIS systems.
 
 The materials accompany the textbook *Computational and Biological Intelligence: From Machine Learning to Neural Networks, Fuzzy Systems, and Evolutionary Computing — With Practical Examples in Python* by Amir Movasagh. They can also be used on their own.
@@ -75,4 +77,8 @@ See `CONTRIBUTING.md` for how to report problems, ask questions, or contribute.
 
 ## Licence and citation
 
-Code: MIT licence (`LICENSE`). Text and figures: CC BY 4.0 (`LICENSE-CONTENT.md`). If you use the materials, please cite them using `CITATION.cff`.
+Code: MIT licence (`LICENSE`). Text and figures: CC BY 4.0 (`LICENSE-CONTENT.md`). If you use the materials, please cite them:
+
+> Movasagh, A. (2026). *Computational and Biological Intelligence: runnable Python learning modules for biomedical engineering* (Version 1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24040132
+
+The same information is in `CITATION.cff` (GitHub's "Cite this repository" button).
