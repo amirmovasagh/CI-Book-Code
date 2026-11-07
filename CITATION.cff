@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "Computational and Biological Intelligence: runnable Python learning modules for biomedical engineering"
+version: "1.0"
+date-released: "2026-11-04"
+license: MIT
+repository-code: "https://github.com/amirmovasagh/CI-Book-Code"
+authors:
+  - family-names: Movasagh
+    given-names: Amir
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "CO-AUTHOR-2-FAMILY-NAME"
+    given-names: "CO-AUTHOR-2-GIVEN-NAME"
+  - family-names: "CO-AUTHOR-3-FAMILY-NAME"
+    given-names: "CO-AUTHOR-3-GIVEN-NAME"
