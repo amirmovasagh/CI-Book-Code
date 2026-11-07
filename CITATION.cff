@@ -8,8 +8,4 @@ repository-code: "https://github.com/amirmovasagh/CI-Book-Code"
 authors:
   - family-names: Movasagh
     given-names: Amir
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "CO-AUTHOR-2-FAMILY-NAME"
-    given-names: "CO-AUTHOR-2-GIVEN-NAME"
-  - family-names: "CO-AUTHOR-3-FAMILY-NAME"
-    given-names: "CO-AUTHOR-3-GIVEN-NAME"
+    orcid: "https://orcid.org/0009-0006-5049-2762"
